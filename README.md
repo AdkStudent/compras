@@ -1,0 +1,2 @@
+# compras
+Proyecto para compras 
